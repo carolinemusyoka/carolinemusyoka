@@ -16,4 +16,4 @@ carolmusyoka127@gmail.com or on [![Linkedin Badge](https://img.shields.io/badge/
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/carolmusyoka_)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/carolmusyoka)
 
-[![Carol's github stats](https://github-readme-stats.vercel.app/api?username=carolinemusyoka&theme=blue-white)](https://github.com/carolinemusyoka/github-readme-stats) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinemusyoka&theme=blue-white)
+[![Carol's github stats](https://github-readme-stats.vercel.app/api?username=carolinemusyoka&theme=blue-dark)](https://github.com/carolinemusyoka/github-readme-stats) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinemusyoka&theme=blue-dark)
