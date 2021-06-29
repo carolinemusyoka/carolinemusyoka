@@ -9,10 +9,9 @@
 - 🔭 I am an Android developer.
 - 🌱 I’m currently learning Testing in Android
 - 💻 Most of my projects are available on right here on Github
-- 🤔 I’m looking for help with getting my first Dev job.
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1jb7jPKiKENWk0PJJ1vH6LCCcbC1ZXTLm/view?usp=sharing).
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1mSeekpTGI816AAKCcBMmgtDCY71U0rbo/view?usp=sharing).
 - 📫 You can find me:
-carolmusyoka127@gmail.com or on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/carol-musyoka)
+[Gmail](mailto:carolmusyoka127@gmail.com) or on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/carol-musyoka)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/carolmusyoka_)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/carolmusyoka)
 
