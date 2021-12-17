@@ -6,7 +6,7 @@
 
 - 🔭 I am an Android developer.
 - 🌱 I’m currently learning Testing in Android
-- 💻 Most of my projects are available here
+- 💻 Most of my projects are available here. Well most individual projects are features I try out. 
 - 📝 Checkout my [resume](https://drive.google.com/file/d/1a1VWbmY4jx80nPETwmBHgLC5BaXiw0PL/view?usp=sharing).
 - 📫 You can find me:
 [Gmail](mailto:carolmusyoka127@gmail.com) or on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/carol-musyoka)
