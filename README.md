@@ -4,8 +4,8 @@
 
 ### Glad to see you here!
 
-- 🔭 I am an Android developer.
-- 🌱 I’m currently learning Testing in Android
+- 🔭 I am an Android developer open to collaborate in new &/ open-source projects. 
+- 🌱 I’m currently learning Testing in Android and Ktor
 - 💻 Most of my projects are available here. Well most individual projects are features I try out. 
 - 📝 Checkout my [resume](https://drive.google.com/file/d/1J_GwLgRqE_o6luYXNPtXjGCe0JQZf75t/view?usp=sharing).
 - 📫 You can find me:
