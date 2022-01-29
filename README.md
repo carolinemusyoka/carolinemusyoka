@@ -2,7 +2,7 @@
 
 #### I am Carol Musyoka✨✨ 
 
-### Glad to see you here!
+### Glad to see you here <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 
 - 🔭 I am an Android developer open to collaborate in new &/ open-source projects. 
 - 🌱 I’m currently learning Testing in Android and Ktor
