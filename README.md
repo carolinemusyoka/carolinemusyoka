@@ -6,7 +6,7 @@
 
 - 🔭 I am an Android developer open to collaborate in new &/ open-source projects. 
 - 🌱 I’m currently learning Testing in Android and Ktor
-- 💻 Most of my projects are available here. Well most individual projects are features I try out. 
+- 💻 View some of my projects on my github or on [playstore](https://play.google.com/store/apps/developer?id=carolmusyoka).
 - 📝 Checkout my [resume](https://drive.google.com/file/d/1J_GwLgRqE_o6luYXNPtXjGCe0JQZf75t/view?usp=sharing).
 - 📫 You can find me:
 [Gmail](mailto:carolmusyoka127@gmail.com) or on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/carol-musyoka)
