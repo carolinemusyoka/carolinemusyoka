@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Testing in Android and Ktor
 - 💻 View some of my projects on my github or on [playstore](https://play.google.com/store/apps/developer?id=carolmusyoka).
 - 🚀I have written blogs on [Dev.to](https://dev.to/carolmusyoka) and on [Section](https://www.section.io/engineering-education/authors/carol-musyoka/)
-- 📝 Checkout my [resume](https://drive.google.com/file/d/1J_GwLgRqE_o6luYXNPtXjGCe0JQZf75t/view?usp=sharing).
+- 📝 Checkout my [resume](https://docs.google.com/document/d/18Dvc-TBWyS0Qsba-SOXZLrm9pTxZWkWjapi2l54RcJ0/edit?usp=sharing).
 - 📫 You can find me:
 [Gmail](mailto:carolmusyoka127@gmail.com) or on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/carol-musyoka)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/carolmusyoka_)
