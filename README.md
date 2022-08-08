@@ -6,7 +6,7 @@
 
 - 🔭 I am an Android developer open to collaborate in new &/ open-source projects. 
 - 🌱 I’m currently learning Testing in Android, Ktor and Jetpack Compose
-- 💜 Check out my most recent Compose [project](https://twitter.com/carolmusyoka_/status/1533761466553221121)
+- 💜 Check out my most recent Compose [project](https://github.com/carolinemusyoka/Dazn)
 - 💻 View some of my projects on my github or on [playstore](https://play.google.com/store/apps/developer?id=carolmusyoka).
 - 🚀I have written blogs on [Dev.to](https://dev.to/carolmusyoka) and on [Section](https://www.section.io/engineering-education/authors/carol-musyoka/)
 - 📝 Checkout my [resume](https://docs.google.com/document/d/18Dvc-TBWyS0Qsba-SOXZLrm9pTxZWkWjapi2l54RcJ0/edit?usp=sharing).
