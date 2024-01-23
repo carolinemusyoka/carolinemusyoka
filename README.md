@@ -5,6 +5,3 @@
 
 - 🔭 I am an Android developer, passionate about what I do. 
 - 🌱 Currently open to new opportunities and collaborating in new &/ open-source projects.
-
-### Other GitHub Profiles 🚀
-- [iK](https://github.com/carol-ikhokha)
